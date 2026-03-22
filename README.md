@@ -23,4 +23,4 @@ Open index.html in your browser
 
 Connect with Me
 GitHub: DhivyaaR-hub
-LinkedIn: Dhivyaa Raghu
+LinkedIn: https://www.linkedin.com/in/dhivyaa-raghu-620942305
