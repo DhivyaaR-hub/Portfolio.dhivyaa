@@ -16,11 +16,6 @@ To-Do App – Task management app with local storage
 Calculator – Functional calculator with a simple, clean UI
 Student Management System – Web app for managing student information
 
-Clone the repository:
-git clone https://github.com/DhivyaaR-hub/your-repo-name.git
-
 Open index.html in your browser
 
-Connect with Me
-GitHub: DhivyaaR-hub
 LinkedIn: https://www.linkedin.com/in/dhivyaa-raghu-620942305
